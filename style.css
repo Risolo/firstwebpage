@@ -170,6 +170,8 @@ button {
     background-color: #0054da;
     color: #E5E7EB;
     font-weight: 900;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 .mainimg {
